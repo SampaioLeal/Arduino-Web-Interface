@@ -1,0 +1,33 @@
+<html>
+
+<head>
+    <title>Arduino Web Interface</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="public/css/semantic.css">
+    <link rel="stylesheet" href="public/css/style.css">
+    <link rel="stylesheet" href="public/css/rangeslider.css">
+    <script src="public/js/jquery.js"></script>
+    <script src="public/js/rangeslider.min.js"></script>
+</head>
+
+<body>
+    <div id="lcdDisplay">
+        <h1>Arduino LCD Display</h1>
+        <input type="text" maxlength="16" name="line1" id="line1" class="line">
+        <br>
+        <input type="text" maxlength="16" name="line2" id="line2" class="line">
+    </div>
+    <hr>
+    <div id="servoMotor">
+        <h1>ServoMotor Angle Control</h1>
+        <div class="servoSlider">
+            <input id="servo" class="rangeslider" type="range" min="0" max="180" step="1" value="0"
+                data-orientation="horizontal">
+        </div>
+
+    </div>
+
+    <script src="public/js/app.js"></script>
+</body>
+
+</html>
