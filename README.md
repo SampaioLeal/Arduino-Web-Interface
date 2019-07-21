@@ -19,3 +19,6 @@ To use this project, you have to define some variables in the arduino and proces
 1. In Processing file, there is a variable called `json`, change it to your enviroment URL.
 2. In Arduino file, there is a defined variable called `SERVO` with the Digital PWM Port of the ServoMotor. Change it, if you want.
 3. After, there is the LiquidCrystal setup, with the digital ports. Change it to adapt to your enviroment.
+
+## Screenshots
+![Drag Racing](https://image.prntscr.com/image/-OxJZS9DRk2xTMQUs6r87w.png)
