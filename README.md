@@ -2,7 +2,7 @@
 
 
 # Arduino-Web-Interface
-[![](https://img.shields.io/github/issues/SampaioLeal/Arduino-Web-Interface.svg)](https://github.com/SampaioLeal/Arduino-Web-Interface/issues) [![](https://img.shields.io/github/forks/SampaioLeal/Arduino-Web-Interface.svg)](https://github.com/SampaioLeal/Arduino-Web-Interface/network) [![](https://img.shields.io/github/stars/SampaioLeal/Arduino-Web-Interface.svg)](https://github.com/SampaioLeal/Arduino-Web-Interface/stargazers) [![](https://img.shields.io/github/release/SampaioLeal/Arduino-Web-Interface.svg)](https://github.com/SampaioLeal/Arduino-Web-Interface/releases)
+[![](https://img.shields.io/github/issues/SampaioLeal/Arduino-Web-Interface.svg)](https://github.com/SampaioLeal/Arduino-Web-Interface/issues) [![](https://img.shields.io/github/forks/SampaioLeal/Arduino-Web-Interface.svg)](https://github.com/SampaioLeal/Arduino-Web-Interface/network) [![](https://img.shields.io/github/stars/SampaioLeal/Arduino-Web-Interface.svg)](https://github.com/SampaioLeal/Arduino-Web-Interface/stargazers) [![](https://img.shields.io/github/release/SampaioLeal/Arduino-Web-Interface.svg)](https://github.com/SampaioLeal/Arduino-Web-Interface/releases) [![GitHub license](https://img.shields.io/github/license/SampaioLeal/Arduino-Web-Interface.svg)](https://github.com/SampaioLeal/Arduino-Web-Interface/blob/master/LICENSE)
 
 WebInterface to control Arduino using Processing.
 By default, the project is configured to control a 16X2 LCD and a ServoMotor.
